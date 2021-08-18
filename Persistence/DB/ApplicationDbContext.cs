@@ -15,6 +15,6 @@ namespace Persistence.DB
 
         }
 
-        //public DbSet<Value> Values { get; set; }
+        public DbSet<Value> Values { get; set; }
     }
 }
