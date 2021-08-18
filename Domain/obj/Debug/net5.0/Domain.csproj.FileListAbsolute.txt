@@ -1,0 +1,12 @@
+F:\Social-Media\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Social-Media\Domain\bin\Debug\net5.0\Domain.dll
+F:\Social-Media\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Social-Media\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.dll
+F:\Social-Media\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Social-Media\Domain\obj\Debug\net5.0\Domain.pdb

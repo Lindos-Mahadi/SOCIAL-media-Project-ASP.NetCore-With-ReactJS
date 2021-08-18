@@ -1,0 +1,17 @@
+F:\Social-Media\Application\bin\Debug\net5.0\Application.deps.json
+F:\Social-Media\Application\bin\Debug\net5.0\Application.dll
+F:\Social-Media\Application\bin\Debug\net5.0\ref\Application.dll
+F:\Social-Media\Application\bin\Debug\net5.0\Application.pdb
+F:\Social-Media\Application\bin\Debug\net5.0\Domain.dll
+F:\Social-Media\Application\bin\Debug\net5.0\Persistence.dll
+F:\Social-Media\Application\bin\Debug\net5.0\Domain.pdb
+F:\Social-Media\Application\bin\Debug\net5.0\Persistence.pdb
+F:\Social-Media\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+F:\Social-Media\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Social-Media\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\Social-Media\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\Social-Media\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\Social-Media\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+F:\Social-Media\Application\obj\Debug\net5.0\Application.dll
+F:\Social-Media\Application\obj\Debug\net5.0\ref\Application.dll
+F:\Social-Media\Application\obj\Debug\net5.0\Application.pdb
